@@ -1,5 +1,12 @@
 # React-Egoing
 
+React본질?
+>> React는 사용자 정의 태그(=컴퍼넌트=>함수)를 만드는 기술이다.   
+
+
+--------- 
+
+
 npx = Node.js 설치 필수.
 
 - `npx create-react-app my-app` : react 프로젝트 생성
@@ -11,6 +18,14 @@ npx = Node.js 설치 필수.
 
 
 - `npm start` : react prject 실행
+
+
+
+
+- `npm run build` : react 배포버전 빌드  
+build를 통해서 build라는폴더가 생기고, index.html에 공백을 다 제거하고 경량화를 갖춤.
+
+- `npx serve -s build` : `-s`(어떤경로로 오던 해당service의 index.html로 지정) / `build`에 있는 index.html을 실행한다. 
 
 
 
