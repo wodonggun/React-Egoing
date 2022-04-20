@@ -1,7 +1,7 @@
 # React-Egoing
 
-React본질?
->> React는 사용자 정의 태그(=컴퍼넌트=>함수)를 만드는 기술이다.   
+React본질?  
+React는 사용자 정의 태그(=컴퍼넌트=>함수)를 만드는 기술이다.   
 
 
 
@@ -12,7 +12,7 @@ npx = Node.js 설치 필수.
 - `npx create-react-app my-app` : react 프로젝트 생성
 
 
-- npx vs npm 차이
+- npx vs npm 차이  
 ![image](https://user-images.githubusercontent.com/35188271/163705105-013faf29-f773-4372-aa4a-4b0ae4a3ec57.png)
 
 
